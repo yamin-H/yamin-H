@@ -122,12 +122,16 @@ The LangChain + Groq pipeline generates and executes SQL against real data via P
 
 **AI Engineering**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" height="48"/>
-<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/langchain.svg" height="48" title="LangChain"/>
-<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/langgraph.svg" height="48" title="LangGraph"/>
-<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/rag.svg" height="48" title="RAG"/>
-<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/agents.svg" height="48" title="AI Agents"/>
-<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/groq.svg" height="48" title="Groq"/>
+[![AI](https://skillicons.dev/icons?i=python,fastapi&perline=8)](https://skillicons.dev)
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=langchain&logoColor=white&labelColor=1C3C3C&color=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square&logoColor=white&labelColor=1a2e1a&color=1a2e1a)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-D97706?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F04E23?style=flat-square&logo=groq&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-0F172A?style=flat-square&logoColor=white)
 
 **Tools & Infrastructure**
 
@@ -158,12 +162,6 @@ The LangChain + Groq pipeline generates and executes SQL against real data via P
 <div align="center">
 
 **Open to remote roles · AI-integrated products · Developer tooling · Real-time systems**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamin-hossain-n/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamin-hossain-n/)
 
