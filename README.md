@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yamin%20Hossain&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20%2B%20AI%20Engineer&descSize=20&descAlignY=62&descColor=58A6FF" width="100%"/>
 
-# Yamin Hossain
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=LangGraph+%7C+Multi-Agent+Systems+%7C+RAG;TypeScript+%7C+Node.js+%7C+Next.js+%7C+FastAPI;Building+AI+that+ships+to+production+%F0%9F%9A%80;Autonomous+agents+that+write+and+merge+PRs+%E2%9A%A1)](https://github.com/yamin-H)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI+Engineer;LangGraph+%7C+Multi-Agent+Systems+%7C+RAG;TypeScript+%7C+Node.js+%7C+Next.js+%7C+FastAPI;Building+AI+that+ships+to+production+%F0%9F%9A%80)](https://github.com/yamin-H)
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/yamin-hossain-n/">
@@ -122,13 +122,12 @@ The LangChain + Groq pipeline generates and executes SQL against real data via P
 
 **AI Engineering**
 
-[![AI](https://skillicons.dev/icons?i=python,fastapi&perline=8)](https://skillicons.dev)
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi" height="48"/>
+<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/langchain.svg" height="48" title="LangChain"/>
+<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/langgraph.svg" height="48" title="LangGraph"/>
+<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/rag.svg" height="48" title="RAG"/>
+<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/agents.svg" height="48" title="AI Agents"/>
+<img src="https://raw.githubusercontent.com/yamin-H/yamin-H/main/icons/groq.svg" height="48" title="Groq"/>
 
 **Tools & Infrastructure**
 
@@ -159,6 +158,12 @@ The LangChain + Groq pipeline generates and executes SQL against real data via P
 <div align="center">
 
 **Open to remote roles · AI-integrated products · Developer tooling · Real-time systems**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamin-hossain-n/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamin-hossain-n/)
 
