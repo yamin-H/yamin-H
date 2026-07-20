@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://bug-reproducer-autonomous-ai-agent.vercel.app/">
+  <a href="https://ai-pr-reviewer-yamin-h-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -49,6 +49,36 @@ I think in schemas first, ship in Docker, and treat *deployed and working* as th
 <tr>
 <td width="50%" valign="top">
 
+### 🔍 Powerful — AI PR Review Agent
+
+A GitHub App that reviews every Pull Request using your **team's own history as context**. It remembers every past decision your team ever made and uses that memory to give reviews specific to YOUR team — not generic best practices.
+
+Built as a **6-node LangGraph pipeline** with pgvector memory search: each code chunk is embedded and matched against past decisions via cosine similarity, then injected into the LLM prompt as context before posting inline GitHub comments.
+
+**Architecture highlights:**
+- 6-node LangGraph agent with per-chunk memory search
+- pgvector cosine similarity for team decision retrieval
+- BullMQ + Redis job queue with automatic retries
+- Live pipeline visualization with SSE streaming
+- GitHub App webhooks + installation token auth
+- Weekly digest via Slack/email with pattern analysis
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20App-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-pr-reviewer-yamin-h-projects.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamin-H/ai-pr-reviewer-yamin)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 Bug Reproducer — Autonomous AI Agent
 
 An autonomous agent that ingests a GitHub issue URL and — with **zero human input** — reproduces the bug, writes a failing test, generates a fix, and opens a Pull Request.
@@ -73,34 +103,6 @@ Built as a **7-node LangGraph pipeline** with conditional retry loops: if the ge
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://bug-reproducer-autonomous-ai-agent.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamin-H/Bug-Reproducer-Autonomous-AI-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 NL Data Analyst — Natural Language to SQL
-
-An AI application that **removes the SQL barrier from data analysis entirely**. Upload a CSV or Excel file, ask a question in plain English, and get back a SQL-generated result, a human-readable summary, and an auto-generated chart — in seconds.
-
-The LangChain + Groq pipeline generates and executes SQL against real data via Pandas. The FastAPI backend uses a **strict service-based architecture** — each pipeline stage (parsing → SQL gen → execution → summarization → charting) has its own dedicated module.
-
-**Architecture highlights:**
-- LangChain + LLaMA 3 70B for query generation
-- Pandas for in-memory SQL execution
-- Matplotlib for auto-generated chart output
-- Next.js + Zustand frontend with file upload UX
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logoColor=white"/>
-</p>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://nl-data-analyst.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamin-H/nl-data-analyst)
 
 </td>
 </tr>
@@ -131,6 +133,7 @@ The LangChain + Groq pipeline generates and executes SQL against real data via P
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-D97706?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F04E23?style=flat-square&logo=groq&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-0F172A?style=flat-square&logoColor=white)
 
 **Tools & Infrastructure**
