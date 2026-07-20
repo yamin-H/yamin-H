@@ -73,7 +73,7 @@ Built as a **6-node LangGraph pipeline** with pgvector memory search: each code 
   <img src="https://img.shields.io/badge/GitHub%20App-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-pr-reviewer-yamin-h-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-pr-reviewer-yamin-jrz4aorm7-yamin-hs-projects.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yamin-H/ai-pr-reviewer-yamin)
 
 </td>
